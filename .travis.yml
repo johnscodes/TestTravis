@@ -2,5 +2,5 @@ language: node_js
 node_js:
   - 12.18.2
  
-script: make helloWorld.js
+script: make helloWorld
 
