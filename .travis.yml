@@ -3,5 +3,5 @@ node_js:
   - 12.18.2
  
 script: 
-  - make test
+  - make helloWorld.js
 
